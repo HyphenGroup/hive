@@ -1,0 +1,12 @@
+pip install pyttsx3
+pip install pywin32
+pip install pyaudio
+pip install SpeechRecognition
+pip install wikipedia
+
+
+Requirements.TXT
+
+
+
+The H.I.V.E Project
